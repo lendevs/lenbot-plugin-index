@@ -24,5 +24,3 @@ uv venv --python 3.13
 uv pip install ../LenBot
 uv run --no-project python ../LenBot/scripts/check_plugin_catalog.py catalog.json --only <插件名>
 ```
-
-收录表示条目与仓库内容一致，插件的功能和维护由插件作者负责。
