@@ -1,10 +1,12 @@
 # LenBot 社区插件目录
 
-LenBot 随附的插件目录只收录官方插件，其他插件收录在这里。在 LenBot 面板的**插件 → 发现插件 → 目录来源**填入下面的地址，就能浏览和安装这里的插件：
+LenBot 随附的插件目录只收录官方插件，其他插件收录在这里。LenBot 0.2.0rc2 起，面板的**插件 → 发现插件**与官方目录一起列出这里的插件，可以按来源筛选。目录地址：
 
 ```text
 https://raw.githubusercontent.com/lendevs/lenbot-plugin-index/main/catalog.json
 ```
+
+0.2.0rc1 在**发现插件 → 目录来源**填入这个地址浏览。
 
 ## 收录条件
 
