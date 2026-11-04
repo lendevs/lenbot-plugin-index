@@ -9,7 +9,7 @@
         "LEN5010"
       ],
       "license": "AGPL-3.0-or-later",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "interface": 1,
       "requires_lenbot": ">=0.2.1,<1",
       "category": "内容查询",
@@ -28,7 +28,7 @@
       ],
       "install": "git",
       "repository": "https://github.com/LEN5010/lenbot-plugin-asoul",
-      "ref": "af10a0e17225833771a0b1f9927deb404d6bbcc0",
+      "ref": "934aa5085c34f61fb1c23f28fb9e8309281b12fd",
       "permissions": [
         "send",
         "events",
