@@ -34,6 +34,34 @@
         "events",
         "configure"
       ]
+    },
+    {
+      "name": "weather",
+      "title": "天气预报",
+      "description": "查询配置地点的天气；异常预报作为事件交给对话，不直接发送消息。",
+      "authors": [
+        "xueyutan"
+      ],
+      "license": "AGPL-3.0-or-later",
+      "version": "1.0.0",
+      "interface": 1,
+      "requires_lenbot": ">=0.4.0,<1",
+      "category": "生活工具",
+      "capabilities": [
+        "天气查询",
+        "异常天气提醒"
+      ],
+      "usage": [
+        "配置地点、经纬度及巡检时间。",
+        "在要使用的场景启用。"
+      ],
+      "install": "git",
+      "repository": "https://github.com/xueyutan/lenbot-plugin-weather.git",
+      "homepage": "https://github.com/xueyutan/lenbot-plugin-weather",
+      "ref": "65dd10cf9bbe4efedd83a437eb62a0e11e2f097e",
+      "permissions": [
+        "events"
+      ]
     }
   ]
 }
